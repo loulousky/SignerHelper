@@ -1,5 +1,6 @@
 # SignerHelper
 在做游戏分发签名的时候，配合美团walle做渠道写入，接入的游戏很多都只是V1签名，通过这个快速配置V1V2签名的APK
+前提 需要java环境
 
 ![image](https://github.com/loulousky/SignerHelper/blob/master/TIM%E5%9B%BE%E7%89%8720190730173745.png)
 
